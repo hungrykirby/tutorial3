@@ -1,24 +1,7 @@
-# README
+# きゃりかつのRailsリポジトリ2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+今Railsチュ＝トリアルの三章をやっています(2019年5月13日開始)
 
-Things you may want to cover:
+パソコンはSurface Pro3
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+開発環境はWindows Subsystem for Linuvで動かしている。Windowsはなかなかうまく動かないことが多い。
