@@ -32,3 +32,6 @@
 
 # vscode setting files
 .vscode/
+
+# Ignore Spring files.
+/spring/*.pid
